@@ -1,2 +1,0 @@
-# allenhyang.github.io
-blog
