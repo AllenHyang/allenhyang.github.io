@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Allen's blog</title><link>/</link><description></description><atom:link href="/feeds/allen.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 29 Feb 2016 00:00:00 +0800</lastBuildDate><item><title>什么是DFM</title><link>/What-is-DFM.html</link><description>&lt;hr /&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Allen's blog</title><link>/</link><description></description><atom:link href="http://allenhyang.com/feeds/allen.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 29 Feb 2016 00:00:00 +0800</lastBuildDate><item><title>什么是DFM</title><link>/What-is-DFM.html</link><description>&lt;hr /&gt;
 &lt;blockquote&gt;
 &lt;p&gt;DFM是面向制造的设计，Design for manufacture. 面向制造的设计是指产品设计需要满足产品制造的要求，具有良好的可制造性，使得产品以最低的成本、最短的时间、最高的质量制造出来。根据产品制造工艺的不同，面向制造的设计可以分为面向注塑加工的设计、面向冲压的设计和面向压铸的设计等。 &lt;/p&gt;
 &lt;/blockquote&gt;
