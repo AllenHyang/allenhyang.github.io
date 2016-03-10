@@ -116,7 +116,7 @@
 &lt;p&gt;早起先吃个早饭，然后回到Villa，游了会泳。补个觉。&lt;/p&gt;
 &lt;p&gt;下午又叫了room service，把午餐送到房间。&lt;/p&gt;
 &lt;p&gt;然后就接着游泳、晒太阳。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="sleep" src="images/IMG_20160309_183002.jpg" title="=200x100" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="sleep" src="images/IMG_20160309_183002.jpg" /&gt;&lt;/p&gt;
 &lt;h3 id="day-5-310"&gt;Day 5 （3/10）&lt;/h3&gt;
 &lt;h3 id="day-6-311"&gt;Day 6 （3/11）&lt;/h3&gt;
 &lt;h3 id="day-7-312"&gt;Day 7 （3/12）&lt;/h3&gt;
@@ -310,41 +310,4 @@
         "}";
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
-&lt;/script&gt;</summary><category term="机械"></category><category term="DFM"></category><category term="Design"></category></entry><entry><title>Markdown的常用语法</title><link href="http://allenhyang.com/Markdown-examples.html" rel="alternate"></link><updated>2016-02-27T00:00:00+08:00</updated><author><name>Allen</name></author><id>tag:allenhyang.com,2016-02-27:Markdown-examples.html</id><summary type="html">&lt;h2 id="markdown"&gt;如何使用markdown语法&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3 id="_1"&gt;标题&lt;/h3&gt;
-&lt;p&gt;# 一级标题
-## 二级标题
-### 三级标题&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id="_2"&gt;列表&lt;/h3&gt;
-&lt;p&gt;前面加-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id="_3"&gt;引用&lt;/h3&gt;
-&lt;p&gt;像这样 ，使用‘’&amp;gt;引用‘’&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;引用&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id="_4"&gt;粗体&amp;amp;斜体&lt;/h3&gt;
-&lt;p&gt;两个**粗体**，一个*斜体*
-&lt;strong&gt;粗体&lt;/strong&gt;，&lt;em&gt;斜体&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id="_5"&gt;分割线&lt;/h3&gt;
-&lt;p&gt;三个*&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3 id="_6"&gt;代码&lt;/h3&gt;
-使用`框起来&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code class="python"&gt;def hello():
-    print 'hello world'
-&lt;/code&gt;&lt;/pre&gt;</summary><category term="Markdown"></category><category term="Pelican"></category></entry></feed>
+&lt;/script&gt;</summary><category term="机械"></category><category term="DFM"></category><category term="Design"></category></entry></feed>
